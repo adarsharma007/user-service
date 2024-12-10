@@ -1,0 +1,25 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.env
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Logs
+*.log
+user-service.log
+
+# Docker
+*.pid
+
+# IDE Specific
+.vscode/
+.idea/
+
+# Temporary Files
+*.tmp
+*.swp
